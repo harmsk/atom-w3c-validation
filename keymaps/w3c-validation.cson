@@ -3,8 +3,8 @@
 # empty to set your own keybindings.
 # For you informations, here's an exemple of my keybindings for w3c-validation
 
-# '.platform-linux atom-text-editor:not([mini]), .platform-win32 atom-text-editor:not([mini])':
-#   'ctrl-alt-g': 'w3c-validation:validate'
-#
-# '.platform-darwin atom-text-editor:not([mini])':
-#   'cmd-alt-g': 'w3c-validation:validate'
+'.platform-linux atom-text-editor:not([mini]), .platform-win32 atom-text-editor:not([mini])':
+  'ctrl-alt-g': 'w3c-validation:validate'
+
+'.platform-darwin atom-text-editor:not([mini])':
+  'cmd-alt-g': 'w3c-validation:validate'
