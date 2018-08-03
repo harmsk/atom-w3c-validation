@@ -22,14 +22,6 @@ The package validate on save by default (you can disable this behavior in the se
 
 `validateOnChange`: Make a validation each time you change an HTML file.
 
-#### Hide on no errors
-
-`hideOnNoErrors`: Hide the panel if there was no errors.
-
-#### Use fold mode as default
-
-`useFoldModeAsDefault`: Fold the results panel by default.
-
 #### CSS Profile
 
 `cssProfile`: Profile to use for CSS file validation (default: css3). *For CSS files only*
